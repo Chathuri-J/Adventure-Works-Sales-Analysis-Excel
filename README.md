@@ -68,7 +68,7 @@ Provides **deep-dive business insights**.
 
 ---
 
-##Tools & Techniques Used
+Tools & Techniques Used
 - **Microsoft Excel**
   - Pivot Tables & Pivot Charts
   - Slicers & Interactive Filters
